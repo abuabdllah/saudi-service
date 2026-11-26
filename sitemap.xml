@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://saudi-service.com/</loc>
-    <lastmod>2026-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://saudi-service.com/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/services/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/about/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/services/home-fridge-repair/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/services/side-by-side-repair/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/services/freezer-repair/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/services/compressor-replacement/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/services/freon-refill/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/services/board-thermostat-repair/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/services/commercial-fridge-repair/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/services/door-gasket-replacement/</loc><lastmod>2026-11-26</lastmod></url>
+  <url><loc>https://saudi-service.com/services/fridge-maintenance-cleaning/</loc><lastmod>2026-11-26</lastmod></url>
 </urlset>
